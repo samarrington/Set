@@ -1,0 +1,12 @@
+
+# Don't track content of these folders
+Compliled/
+
+# Compiled Source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
